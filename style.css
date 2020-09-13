@@ -1,0 +1,49 @@
+.content {
+
+padding:30px;
+font-family:Cinzel;
+ 	margin-top: -30px;
+	font-size:20px;
+}
+
+a{
+
+	list-style:none;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family:Roboto;
+	color: orange;
+
+}
+a:hover{
+	color:red;
+	
+    	}
+
+tr {
+
+    list-style:none;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family:Roboto;
+	color: black;
+}
+
+
+
+.highlight {
+	color:red;
+}
+
+img {
+	
+	width: 70px;
+    border-radius: 35px;
+    margin: 10px 15px 0 0;
+}
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
