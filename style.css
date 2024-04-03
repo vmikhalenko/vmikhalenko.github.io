@@ -1,13 +1,3 @@
-.content {
-
-    list-style:none;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family:Roboto;
-	color: black;
-}
-
-
 a{
 
 	list-style:none;
@@ -17,10 +7,6 @@ a{
 	color: orange;
 
 }
-a:hover{
-	color:red;
-	
-    	}
 
 tr {
 
@@ -31,11 +17,6 @@ tr {
 	color: black;
 }
 
-
-
-.highlight {
-	color:red;
-}
 
 img {
 	
