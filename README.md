@@ -1,2 +1,3 @@
 # vmikhalenko.github.io
-My resume page
+
+--- My resume page ---
